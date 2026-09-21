@@ -1,8 +1,8 @@
-# القرآن المستبين — Al-Qur'an Al-Mustabin 🌙
+# Al-Qur'an Al-Mustabin 🌙
 
 An interactive Quran study platform that brings together the **Quran, Arabic word meanings, and Tafsir** in one unified interface.
 
-> **القرآن المستبين** is an ongoing open-source project focused on making it easier to explore the meanings of Quranic words and understand the interpretation of each Ayah.
+> **Al-Qur'an Al-Mustabin** is an ongoing open-source project focused on making it easier to explore the meanings of Quranic words and understand the interpretation of each Ayah.
 
 ---
 
@@ -47,15 +47,14 @@ The planned interface is divided into three main areas:
 
 ```text
 ┌───────────────────────────────────────────────────────────────┐
-│                       القرآن الكريم                            │
+│                         Quran Text                             │
 ├────────────────┬────────────────────────────┬─────────────────┤
 │                │                            │                 │
-│    التفسير     │        نص القرآن           │     القاموس     │
+│     Tafsir     │        Quran Text          │    Dictionary   │
 │                │                            │                 │
-│  تفسير الآية   │     الكلمات قابلة          │   معنى الكلمة   │
-│                │       للتفاعل              │   الجذر         │
-│                │                            │   المعلومات     │
-│                │                            │                 │
+│  Ayah Tafsir   │    Interactive Words       │  Word Meaning   │
+│                │                            │  Root           │
+│                │                            │  Information    │
 └────────────────┴────────────────────────────┴─────────────────┘
 ```
 
@@ -90,7 +89,7 @@ Architecture, data sources, UI, and technical implementation are still being def
 
 ## 🤝 Contributing
 
-Quran Mustabin is being developed collaboratively.
+Al-Qur'an Al-Mustabin is being developed collaboratively.
 
 Contributions, ideas, improvements, and discussions are welcome as the project evolves.
 
@@ -106,12 +105,12 @@ Each external dataset or resource will be documented with its source and license
 
 ## 📄 License
 
-License information will be added once the project's data sources, dependencies, and distribution model have been finalized.
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
 ## 🌙 Name
 
-**القرآن المستبين — Al-Qur'an Al-Mustabin**
+**Al-Qur'an Al-Mustabin**
 
 The name reflects the project's purpose of helping users explore and clarify the meanings of Quranic words and verses through language and Tafsir.
