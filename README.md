@@ -47,7 +47,7 @@ The planned interface is divided into three main areas:
 
 ```text
 ┌───────────────────────────────────────────────────────────────┐
-│                         Quran Text                             │
+│                         Quran Text                            │
 ├────────────────┬────────────────────────────┬─────────────────┤
 │                │                            │                 │
 │     Tafsir     │        Quran Text          │    Dictionary   │
